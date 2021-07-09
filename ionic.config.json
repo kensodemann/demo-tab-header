@@ -1,0 +1,7 @@
+{
+  "name": "demo-tab-header",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
